@@ -66,7 +66,7 @@ Com experiência que vai desde a programação web e mobile até a eletrônica, 
 ### 💡 Destaques & Background em Negócios
 
 * 📈 **Ecossistema de Inovação & Startups:** Fundador da **Launchy**, trabalhando ativamente na construção de uma **Deeptech** e com participação em programas de fomento ao empreendedorismo como o **Go**, Startup Day e Hackathon do Sol.
-* 📅 **[Google Calendar para Linux](https://github.com/SEU_USUARIO/NOME_DO_REPO)**: Aplicativo desktop nativo e super leve construído com Tauri para otimizar o fluxo de trabalho no Linux.
+* 📅 **[Google Calendar para Linux](https://github.com/rasismaelbarbosa/google-calendar-linux.git)**: Aplicativo desktop nativo e super leve construído com Tauri para otimizar o fluxo de trabalho no Linux.
 * 🤖 **LAPI & Eletrônica:** Forte envolvimento em pesquisa, desenvolvimento de circuitos no Flux e monitoria educacional em projetos de base tecnológica no IFRN.
 
 ---
